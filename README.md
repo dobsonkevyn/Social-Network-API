@@ -7,6 +7,7 @@
 - [Technology](#Technology)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Walkthrough Video] #(walkthrough)
 
 
 ## Description:
@@ -38,5 +39,11 @@ After installing npm packages, the application will be invoked by using the foll
 ```
 npm start
 ```
+
+Open Insomnia Core to test API routes
+
+## Walkthrough Video
+https://drive.google.com/file/d/1fKNdwNHPRambboRPQsOYp1VmIWomxOAK/view
+
 
 - [Github Profile](https://github.com/dobsonkevyn)
